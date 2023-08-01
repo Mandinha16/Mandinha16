@@ -16,4 +16,4 @@ Qualquer dúvida entre em contato
 <a href="mailto:XXXXXXX@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
 ![]()
-![image](https://github.com/Mandinha16/Mandinha16/assets/140521025/32bf3378-2665-4fa8-90b6-fddb062298e9)
+https://media.tenor.com/b3oUwj1NnO8AAAAd/cat-cute-cat.gif
